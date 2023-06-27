@@ -1,4 +1,4 @@
-## In the following description, I will be discussed the features of a dataset. Please estimate the price in dollars. The data is stored in the "Prediction of the House price.csv" file.
+## In the following description, I will be discussed the features of a dataset. the price of houses is estimated in dollars. The data is stored in the "Prediction of the House price.csv" file.
 ***
 ### House area in square meters (Area)
 ### Number of bedrooms (Room)
